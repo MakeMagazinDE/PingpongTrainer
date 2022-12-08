@@ -9,8 +9,8 @@ Maker Media GmbH
 
 Tischtennis beinhaltet alles, was ein gutes Freizeitspiel ausmacht: Geschick und Bewegung, Wettbewerb und Spaß, Action und Geselligkeit. Wenn letztere einmal ausfällt, hilft unser Pingpong-Trainingsroboter, der automatisch Bälle in wechselnde Richtungen verschießt.
 
-Stückliste und Verdrahtung siehe Excel-Sheet **Bauteile_und_Verbindungen.xlsx**
+Stückliste und Verdrahtung siehe Excel-Sheet **Bauteile_und_Verbindungen.xlsx** (Datei, als "Raw" herunterladen). Die Excel-Arbeitsmappe wurde auch als PDF konvertiert, ist hier aber unter Umständen nicht mehr gut lesbar.
 
-**Bitte beachten Sie:** Unter Material steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**! Siehe hierzu auch die Stückliste (Excel-Datei, als "Raw" herunterladen).
+**Bitte beachten Sie:** Unter Material steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**!
 
 Ein Video vom Pingpong-Trainingsroboter ist inzwischen hier auf Youtube zu sehen: https://youtu.be/tKqPbJfTlDg
