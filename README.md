@@ -11,6 +11,6 @@ Tischtennis beinhaltet alles, was ein gutes Freizeitspiel ausmacht: Geschick und
 
 Stückliste und Verdrahtung siehe Excel-Sheet **Bauteile_und_Verbindungen.xlsx**
 
-Bitte beachten Sie: Unter Material steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**!
+**Bitte beachten Sie:** Unter Material steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**!
 
 Ein Video vom Pingpong-Trainingsroboter ist inzwischen hier auf Youtube zu sehen: https://youtu.be/tKqPbJfTlDg
