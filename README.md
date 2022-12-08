@@ -13,6 +13,6 @@ Tischtennis beinhaltet alles, was ein gutes Freizeitspiel ausmacht: Geschick und
 
 Eine Schritt-für-Schritt-Bauanleitung steht als PDF zu Verfügung, da der Artikel aus Platzgründen nicht alle Aspekte des Aufbaus behandeln konnte.
 
-Stückliste und Verdrahtung siehe Excel-Sheet **Bauteile_und_Verbindungen.xlsx** (Datei, als "Raw" herunterladen). Die Excel-Arbeitsmappe wurde auch als PDF konvertiert, ist hier aber unter Umständen nicht mehr gut lesbar.
+Stückliste und Verdrahtung siehe Excel-Sheet **Bauteile_und_Verbindungen.xlsx** (Datei mit als "View Raw" oder "Download" herunterladen). Die Excel-Arbeitsmappe wurde auch als PDF konvertiert, ist hier aber unter Umständen nicht mehr gut lesbar.
 
 Ein Video vom Pingpong-Trainingsroboter ist inzwischen hier auf Youtube zu finden: https://youtu.be/tKqPbJfTlDg
