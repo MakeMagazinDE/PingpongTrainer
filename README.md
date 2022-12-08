@@ -9,7 +9,7 @@ Maker Media GmbH
 
 Tischtennis beinhaltet alles, was ein gutes Freizeitspiel ausmacht: Geschick und Bewegung, Wettbewerb und Spaß, Action und Geselligkeit. Wenn letztere einmal ausfällt, hilft unser Pingpong-Trainingsroboter, der automatisch Bälle in wechselnde Richtungen verschießt.
 
-**Bitte beachten Sie:** Unter Material steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**!
+**Bitte beachten Sie:** Unter **Material** steht im Artikel *Arduino Uno*. Benutzt wird aber ein **Arduino Nano**!
 
 Eine Schritt-für-Schritt-Bauanleitung steht als PDF zu Verfügung, da der Artikel aus Platzgründen nicht alle Aspekte des Aufbaus behandeln konnte.
 
